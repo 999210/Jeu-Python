@@ -1,4 +1,4 @@
-# Jeu du Shifumi
+# Shifumi
 
 Jeu classique du Shifumi en Python. Le jeu inclut un menu avec des options pour jouer, voir les règles et quitter.
 
