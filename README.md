@@ -1,3 +1,17 @@
-# Jeu du Shifumi 
+# Jeu du Shifumi
 
-## Ceci est une implémentation simple du jeu classique de Pierre-Papier-Ciseaux en Python. Le jeu inclut un menu avec des options pour jouer au jeu, voir les règles et quitter.
+Jeu classique du Shifumi en Python. Le jeu inclut un menu avec des options pour jouer, voir les règles et quitter.
+
+## Comment le jeu fonctionne:
+
+- Jouer à Pierre-Papier-Ciseaux contre l'ordinateur.
+- Voir les règles du jeu.
+- Menu simple et intuitif pour la navigation.
+
+
+## Utilisation:
+
+ Exécutez le script principal pour démarrer le jeu: main.py
+
+
+
